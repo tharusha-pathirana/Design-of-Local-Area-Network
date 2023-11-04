@@ -44,7 +44,6 @@ Our design approach considers long-term use (20-25 years) while optimizing total
 - Router/switch specifications are as follows:
   - Router Model: Cisco XYZ
   - Switch Model: Cisco ABC
-  - ...
 
 ## Bill of Quantities
 
